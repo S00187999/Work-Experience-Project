@@ -1,0 +1,98 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 16332 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ItsDy/OneDrive/Documents/GitHub/Work-Experience-Project/Work experience
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50411
+Successfully changed project path to: C:/Users/ItsDy/OneDrive/Documents/GitHub/Work-Experience-Project/Work experience
+C:/Users/ItsDy/OneDrive/Documents/GitHub/Work-Experience-Project/Work experience
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 33.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ItsDy/OneDrive/Documents/GitHub/Work-Experience-Project/Work experience/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56476
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001631 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 32.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.204 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000655 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.824 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.8 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2234.
+Total: 2.159000 ms (FindLiveObjects: 0.217100 ms CreateObjectMapping: 0.048800 ms MarkObjects: 1.760600 ms  DeleteObjects: 0.131700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/sand-dunes-near-ksar.jpg
+  artifactKey: Guid(59d563d1508e93340b029470c0d98ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sand-dunes-near-ksar.jpg using Guid(59d563d1508e93340b029470c0d98ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2472eb570bdd469748650feeb89ae4b') in 0.115954 seconds
+  Import took 0.119905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1852.280107 seconds.
+  path: Assets/download.png
+  artifactKey: Guid(07afd8d1add777449a450b1f704afd11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/download.png using Guid(07afd8d1add777449a450b1f704afd11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee582b50d1d1b84aeb30f947d7f6974') in 0.030940 seconds
+  Import took 0.034635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.445748 seconds.
+  path: Assets/load-icon-png-8.png
+  artifactKey: Guid(d4553234724f1174981af4e9bd7513e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/load-icon-png-8.png using Guid(d4553234724f1174981af4e9bd7513e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f9ee8b250db65bece1353c1b2e47c9') in 0.018856 seconds
+  Import took 0.022524 seconds .
+
